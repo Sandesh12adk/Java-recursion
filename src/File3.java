@@ -26,6 +26,6 @@ public class File3 {
         }
 
         // Close the scanner to prevent resource leak
-        scanner.close();/
+        scanner.close();
     }
 }
